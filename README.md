@@ -1,6 +1,6 @@
 # Newsletter
 
-Python code that sends a newsletter to subscribers via email
+Send a newsletter to a list of subscribers via email
 
 ## Features
 
